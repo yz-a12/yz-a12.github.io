@@ -32,7 +32,7 @@ I am an undergraduate student at the Department of Electronic and Electrical Eng
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2026</div><img src='ISBI.png' alt="LUMOS Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LUMOS: Universal Semi-Supervised OCT Retinal Layer Segmentation with Hierarchical Reliable Mutual Learning**
@@ -44,7 +44,17 @@ I am an undergraduate student at the Department of Electronic and Electrical Eng
 </div>
 </div>
 
-- **CRISP: Rank-Guided Iterative Squeezing for Robust Medical Image Segmentation under Domain Shift**, Accepted by **MICCAI 2026**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='MICCAI.png' alt="CRISP Framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CRISP: Rank-Guided Iterative Squeezing for Robust Medical Image Segmentation under Domain Shift**
+
+**Yizhou Fang** et al.
+
+**MICCAI 2026**
+- Proposed a rank-guided iterative squeezing approach for robust medical image segmentation under domain shift.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.11* National Third Prize in the 2024 Fourth Cross Strait Student Baseball League Finals 
