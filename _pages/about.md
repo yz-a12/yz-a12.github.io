@@ -96,7 +96,7 @@ Department of Electronic and Electrical Engineering, SUSTech
 - **Empirical Law Discovery**: Identified and formulated the "Rank Stability of Positive Regions" principle, serving as a reliable anchor to maintain segmentation stability in open-world clinical environments.
 - **Parameter-free Adaptation**: Developed a model-agnostic, parameter-free strategy that utilizes latent feature perturbation to construct High-Precision (HP) and High-Recall (HR) priors.
 - **Iterative Refinement**: Designed a recursive "squeezing" mechanism to close the uncertainty gap between HP and HR regions, significantly reducing HD95 across multi-center, demographic, and cross-modality shifts.
-- **First author; led method design and multi-center evaluation. Accepted by MICCAI 2026.**
+- **First author; submitted to MICCAI 2026 (under review).**
 
 # 🛠 Technical Skills
 - **Programming Languages**: Python, C, Matlab
@@ -106,3 +106,8 @@ Department of Electronic and Electrical Engineering, SUSTech
 
 # 🏆 Leadership & Service
 - **President of the Baseball Club**: Organized training and competitions, managed club members.
+
+---
+
+# 📧 Contact
+**Email**: [12310429@mail.sustech.edu.cn](mailto:12310429@mail.sustech.edu.cn)
