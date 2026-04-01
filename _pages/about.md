@@ -17,18 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at the Department of Electronic and Electrical Engineering, Southern University of Science and Technology (SUSTech). My research interests focus on medical image analysis, particularly in the areas of semi-supervised learning and domain adaptation for medical imaging applications.
+I am an undergraduate student in the Department of Electronic and Electrical Engineering at the Southern University of Science and Technology (SUSTech), supervised by Prof. Xiaoying Tang and collaborating with Prof. Longxi Zhou. My research is rooted in Medical Image Analysis, with a core focus on Domain Adaptation and Robust Perception.
+
+My research philosophy centers on bridging the gap between theoretical machine learning and clinical reliability. I am dedicated to developing stable representations and model-agnostic frameworks that ensure AI robustness under "open-world" distribution shifts, with a particular focus on integrating privacy-preserving mechanisms and clinical fairness to mitigate health inequities. Looking forward, my goal is to evolve these reliable perception models into Autonomous Medical Agents, blending decision-making intelligence with secure and equitable perception to create more automated, adaptive, and trustworthy clinical AI systems.
 
 # 🔬 Research Interests
-- Medical Image Segmentation
-- Semi-supervised Learning
 - Domain Adaptation / Domain Shift
-- Optical Coherence Tomography (OCT)
+- Next-Generation Medical Agents
+- Equitable & Fair Medical AI
 
 
 # 🔥 News
-- *2026.02*: Submitted a paper to MICCAI 2026.
-- *2026.01*: Paper accepted to ISBI 2026 as an Oral Presentation. 
+- *2026.02*: **Submitted a paper to MICCAI 2026！**
+- *2026.01*: **Paper accepted to ISBI 2026 as an Oral Presentation！** 
 
 # 📝 Publications
 
@@ -98,11 +99,10 @@ Department of Electronic and Electrical Engineering, SUSTech
 - **Iterative Refinement**: Designed a recursive "squeezing" mechanism to close the uncertainty gap between HP and HR regions, significantly reducing HD95 across multi-center, demographic, and cross-modality shifts.
 - **First author; submitted to MICCAI 2026 (under review).**
 
-# 🛠 Technical Skills
-- **Programming Languages**: Python, C, Matlab
-- **Deep Learning**: PyTorch
-- **Embedded Systems**: Keil
-- **Mobile Development**: Android Studio, DevEco Studio
+# 📚 Relevant Coursework
+- **Mathematics & AI Foundations**: Probability and Mathematical Statistics, Machine Learning, Statistical Learning in Data Science.
+- **Signal Processing & Systems**: Digital Signal Processing (DSP), Signals and Systems.
+- **Electronics & Hardware Circuits**: Analog Circuits, Digital Circuits.
 
 # 🏆 Leadership & Service
 - **President of the Baseball Club**: Organized training and competitions, managed club members.
