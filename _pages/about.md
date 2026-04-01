@@ -27,7 +27,7 @@ I am an undergraduate student at the Department of Electronic and Electrical Eng
 
 
 # 🔥 News
-- *2026.02*: Paper accepted to MICCAI 2026.
+- *2026.02*: Submitted a paper to MICCAI 2026.
 - *2026.01*: Paper accepted to ISBI 2026 as an Oral Presentation. 
 
 # 📝 Publications
@@ -49,7 +49,7 @@ I am an undergraduate student at the Department of Electronic and Electrical Eng
 
 [**CRISP: Rank-Guided Iterative Squeezing for Robust Medical Image Segmentation under Domain Shift**](papers/MICCAI2026_CRISP.pdf)
 
-**Yizhou Fang** et al.
+**Yizhou Fang** , Xiaoying Tang, Longxi Zhou.
 
 **MICCAI 2026** | [PDF](papers/MICCAI2026_CRISP.pdf)
 - Proposed a rank-guided iterative squeezing approach for robust medical image segmentation under domain shift.
@@ -61,17 +61,42 @@ I am an undergraduate student at the Department of Electronic and Electrical Eng
 
 # 📖 Education
 - *2023.09 - 2027.06 (Expected)*, Bachelor of Engineering in Information Engineering, Southern University of Science and Technology (SUSTech), Shenzhen, China
-  - GPA: 87/100 
+  - GPA: 3.74/4.00
 
-# 💻 Projects
+# 🔬 Research Experience
 
-- **OCT Multi-classification Based on Model Optimization during Adaptive Testing**: Proposed a test-time adaptation strategy for multi-class classification of OCT images without parameter updates.
+**Jan. 2025 - Jun. 2025 | Shenzhen, China**
+**Undergraduate Researcher**
+Department of Electronic and Electrical Engineering, SUSTech
+*Supervisor: Prof. Xiaoying Tang*
 
-- **Olympic Medal Prediction and Analysis**: Built LSTM networks and neural network models for medal forecasting.
+**Topic: OCT Multi-classification Based on Model Optimization during Adaptive Testing**
+- Proposed an innovative Test-Time Adaptation (TTA) strategy for multi-class classification of OCT images that eliminates the need for parameter updates, ensuring suitability for resource-constrained environments.
+- Integrated test image amplitude spectra with learned visual prompts to dynamically adapt model interpretation and mitigate domain shift without modifying weights.
+- Designed a lightweight, adaptive framework focusing on low-frequency feature adjustment to enhance cross-domain generalization.
 
-- **Fish Classification System**: Implemented KNN and Perceptron algorithms in C to classify fish data.
+**Jul. 2025 - Oct. 2025 | Shenzhen, China**
+**Undergraduate Researcher**
+Department of Electronic and Electrical Engineering, SUSTech
+*Supervisor: Prof. Xiaoying Tang*
 
-- **Xiyong International Dark Night Community Starry Sky Camp**: Project management and marketing for an astronomy-themed campsite in Shenzhen.
+**Topic: Semi-supervised Cross-Domain Retinal Layer Segmentation**
+- Developed a collaborative dual-decoder mutual learning architecture with a shared encoder to enhance cross-domain feature representation and segmentation robustness.
+- Designed a cross-layer dual-feature consistency loss leveraging prototype-guided similarity matching and entropy-based confidence weighting for improved feature alignment.
+- Implemented an adaptive dynamic task selection mechanism to facilitate efficient teacher-student knowledge distillation in semi-supervised scenarios.
+- **First author; led method design, experiments, and manuscript preparation. Accepted by ISBI 2026 (Oral Presentation).**
+
+**Nov. 2025 - Feb. 2026 | Shenzhen, China**
+**Undergraduate Researcher**
+Department of Electronic and Electrical Engineering, SUSTech
+*Supervisors: Prof. Longxi Zhou and Prof. Xiaoying Tang*
+
+**Topic: Rank-based Medical Image Segmentation (CRISP Framework)**
+- **The First Rank-based Framework**: Introduced CRISP, the first medical image segmentation framework to perform inference based on relative rank rather than absolute probabilities, effectively overcoming the limitations of probability-based methods under unpredictable distribution shifts.
+- **Empirical Law Discovery**: Identified and formulated the "Rank Stability of Positive Regions" principle, serving as a reliable anchor to maintain segmentation stability in open-world clinical environments.
+- **Parameter-free Adaptation**: Developed a model-agnostic, parameter-free strategy that utilizes latent feature perturbation to construct High-Precision (HP) and High-Recall (HR) priors.
+- **Iterative Refinement**: Designed a recursive "squeezing" mechanism to close the uncertainty gap between HP and HR regions, significantly reducing HD95 across multi-center, demographic, and cross-modality shifts.
+- **First author; led method design and multi-center evaluation. Accepted by MICCAI 2026.**
 
 # 🛠 Technical Skills
 - **Programming Languages**: Python, C, Matlab
