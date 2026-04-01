@@ -35,11 +35,11 @@ I am an undergraduate student at the Department of Electronic and Electrical Eng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISBI 2026</div><img src='ISBI.png' alt="LUMOS Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**LUMOS: Universal Semi-Supervised OCT Retinal Layer Segmentation with Hierarchical Reliable Mutual Learning**
+[**LUMOS: Universal Semi-Supervised OCT Retinal Layer Segmentation with Hierarchical Reliable Mutual Learning**](papers/ISBI2026_LUMOS.pdf)
 
 **Yizhou Fang**, Jian Zhong, Li Lin, Xiaoying Tang
 
-**ISBI 2026 (Oral Presentation)**
+**ISBI 2026 (Oral Presentation)** | [PDF](papers/ISBI2026_LUMOS.pdf)
 - Proposed a hierarchical reliable mutual learning framework for semi-supervised OCT retinal layer segmentation.
 </div>
 </div>
@@ -47,11 +47,11 @@ I am an undergraduate student at the Department of Electronic and Electrical Eng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='MICCAI.png' alt="CRISP Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CRISP: Rank-Guided Iterative Squeezing for Robust Medical Image Segmentation under Domain Shift**
+[**CRISP: Rank-Guided Iterative Squeezing for Robust Medical Image Segmentation under Domain Shift**](papers/MICCAI2026_CRISP.pdf)
 
 **Yizhou Fang** et al.
 
-**MICCAI 2026**
+**MICCAI 2026** | [PDF](papers/MICCAI2026_CRISP.pdf)
 - Proposed a rank-guided iterative squeezing approach for robust medical image segmentation under domain shift.
 </div>
 </div>
