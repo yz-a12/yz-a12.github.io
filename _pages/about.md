@@ -57,9 +57,6 @@ My research philosophy centers on bridging the gap between theoretical machine l
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2024.11* National Third Prize in the 2024 Fourth Cross Strait Student Baseball League Finals 
-
 # 📖 Education
 - *2023.09 - 2027.06 (Expected)*, Bachelor of Engineering in Information Engineering, Southern University of Science and Technology (SUSTech), Shenzhen, China
   - GPA: 3.74/4.00
