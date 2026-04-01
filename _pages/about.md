@@ -23,12 +23,6 @@ I am an undergraduate student in the Department of Electronic and Electrical Eng
 
 My research philosophy centers on bridging the gap between theoretical machine learning and clinical reliability. I am dedicated to developing stable representations and model-agnostic frameworks that ensure AI robustness under "open-world" distribution shifts, with a particular focus on integrating privacy-preserving mechanisms and clinical fairness to mitigate health inequities. Looking forward, my goal is to evolve these reliable perception models into Autonomous Medical Agents, blending decision-making intelligence with secure and equitable perception to create more automated, adaptive, and trustworthy clinical AI systems.
 
----
-
-**Quick Navigation:** [Research Interests](#research-interests) | [News](#news) | [Publications](#publications) | [Education](#education) | [Research Experience](#research-experience) | [Relevant Coursework](#coursework) | [Leadership & Service](#leadership) | [Contact](#contact)
-
-<span class='anchor' id='research-interests'></span>
-
 # 🔬 Research Interests
 - Domain Adaptation / Domain Shift
 - Next-Generation Medical Agents
