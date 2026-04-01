@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Fang Yizhou"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Undergraduate Student<br>Department of Electronic and Electrical Engineering<br>Southern University of Science and Technology (SUSTech)"
   location         : "Shenzhen, China"
   employer         :
