@@ -54,11 +54,11 @@ My research philosophy centers on bridging the gap between theoretical machine l
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='MICCAI.png' alt="CRISP Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CRISP: Rank-Guided Iterative Squeezing for Robust Medical Image Segmentation under Domain Shift**](papers/MICCAI2026_CRISP.pdf)
+[**CRISP: Rank-Guided Iterative Squeezing for Robust Medical Image Segmentation under Domain Shift**](papers/MICCAI26_1728.pdf)
 
 **Yizhou Fang** , Xiaoying Tang, Longxi Zhou.
 
-**MICCAI 2026** | [PDF](papers/MICCAI2026_CRISP.pdf)
+**MICCAI 2026** | [PDF](papers/MICCAI26_1728.pdf)
 - Proposed a rank-guided iterative squeezing approach for robust medical image segmentation under domain shift.
 </div>
 </div>
