@@ -56,7 +56,7 @@ My research philosophy centers on bridging the gap between theoretical machine l
 
 [**CRISP: Rank-Guided Iterative Squeezing for Robust Medical Image Segmentation under Domain Shift**](papers/MICCAI26_1728.pdf)
 
-**Yizhou Fang** , Xiaoying Tang, Longxi Zhou.
+**Yizhou Fang**, Peng Cheng, Yu Liu, Xiaoying Tang, Longxi Zhou
 
 **MICCAI 2026** | [PDF](papers/MICCAI26_1728.pdf)
 - Proposed a rank-guided iterative squeezing approach for robust medical image segmentation under domain shift.
